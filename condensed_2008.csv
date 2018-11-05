@@ -1,0 +1,24 @@
+File_Label,ID,Sample,$n>3\sigma$,$n>9\sigma$
+3.0,A,Bacillus Atrophaeus (unw),952,34
+4.0,B,"Bacillus Atrophaeus (unw, dil)",52,4
+5.0,C,Bacillus Atrophaeus (w),1171,217
+6.0,D,"Bacillus Atrophaeus (w, dil)",241,38
+7.0,E,Bacillus Atrophaeus Vegetative Cells (unw),4779,1915
+8.0,F,"Bacillus Atrophaeus Vegetative Cells (unw, dil)",1488,264
+9.0,G,Bacillus Atrophaeus Vegetative Cells (w),1884,573
+10.0,H,"Bacillus Atrophaeus Vegetative Cells (w, dil)",2064,194
+13.0,I,E coli. (unw),3684,1547
+14.0,J,"E coli. (unw, dil)",1448,371
+15.0,K,E coli. (w),2365,1461
+16.0,L,"E coli. (w, dil)",835,302
+2.0,M,Bermuda grass,2681,423
+19.0,N,Johnson Grass I,1209,259
+20.0,O,Johnson Grass II,2673,378
+11.0,P,Birch pollen,111,56
+21.0,Q,Paper mulberry I,233,209
+22.0,R,Paper mulberry II,397,103
+23.0,S,Ragweed I,123,34
+24.0,T,Ragweed II,209,117
+12.0,U,Diesel smoke,11,5
+17.0,V,Grass smoke I,2542,231
+18.0,W,Grass smoke II,815,68
