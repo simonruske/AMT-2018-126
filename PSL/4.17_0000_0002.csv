@@ -1,0 +1,39 @@
+Filename: 4.17_0000_0002.csv
+SampleFlowRate = 6.833 ml/s
+Trigger Threshold 2 = 4
+Trigger Threshold 1 = 4
+Max Meas Per o/p File = 30000
+Auto Forced Trig Enabled = 0
+Auto Forced Trig Part Rate Thresh = 2 p/s
+Peak Offset FL2_SctPk = 0 (0x0)
+Integrator Offset FL2_SctInt = 69 (0x45)
+Integrator Offset FL1_280 = 69 (0x45)
+Integrator Offset FL2_280 = 65 (0x41)
+Integrator Offset FL2_370 = 0 (0x0)
+Peak Offset Pwr_280 = 0 (0x0)
+Peak Offset Pwr_370 = 0 (0x0)
+Peak Offset SCAT_EL1 = 0 (0x0)
+Peak Offset SCAT_EL2 = 0 (0x0)
+Peak Offset SCAT_EL3 = 0 (0x0)
+Peak Offset SCAT_EL4 = 0 (0x0)
+Scat El 2 gradient = 0.8704
+Scat El 2 offset = 1.6147
+Scat El 3 gradient = 1.2505
+Scat El 3 offset = 1.2597
+Scat El 4 gradient = 1.1150
+Scat El 4 offset = 5.5825
+Minimum Mean ScatEL = 20
+Glitch time = 30 (0.63us)
+Scat integrate pulse = 300 (6.25us)
+XE1 trigger delay = 471 (9.81us)
+XE1 integrate delay = 160 (3.33us)
+XE1 integrate pulse = 288 (6.00us)
+XE2 trigger delay = 551 (11.48us)
+XE2 integrate delay = 130 (2.71us)
+XE2 integrate pulse = 336 (7.00us)
+Recharge time = 18000 (6000us)
+FL1 280nm offset = 0
+FL2 280nm offset = 0
+FL2 370nm offset = 0
+Start Date/Time: 01/07/2014 11:16:58
+Time,FL2 SctInt,Scat_EL1,Scat_EL2,Scat_EL3,Scat_EL4,FL2 SctPk,FL1_280,FL2_280,Pw
