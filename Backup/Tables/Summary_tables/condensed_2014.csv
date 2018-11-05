@@ -1,0 +1,14 @@
+File_Label,ID,Sample,$n>3\sigma$,$n>9\sigma$
+6,A,Bacillus Atrophaeus (unwashed),1728,684
+10,B,Bacillus Atrophaeus (washed),1322,608
+11,C,E. coli (unwashed),1290,632
+5,D,Puffball I,504,248
+13,E,Puffball II,35,3
+14,F,Puffball III,16,1
+15,G,Aspen Pollen,74,31
+4,H,Paper mulberry pollen,541,537
+16,I,Poplar Pollen,104,50
+9,J,Ryegrass pollen,21,15
+7,K,Fullers Earth,61,20
+12,L,NaCl,3,0
+8,M,Phosphate Buffered Saline,35,3
